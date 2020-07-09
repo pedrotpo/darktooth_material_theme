@@ -1,0 +1,28 @@
+{
+  "name": "theme-darktooth_material",
+  "displayName": "Darktooth Material Theme",
+  "description": "Color Theme based from the Emacs theme ported by /Poorchop",
+  "version": "0.0.1",
+  "publisher": "pedrotpo",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/pedrotpo/darktooth_material_theme/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedrotpo/darktooth_material_theme.git"
+  },
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Darktooth Material Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Darktooth_Material_Theme.json"
+      }
+    ]
+  }
+}
