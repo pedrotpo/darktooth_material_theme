@@ -6,7 +6,7 @@
 * Original theme: [Darktooth theme](https://marketplace.visualstudio.com/items?itemName=Poorchop.theme-darktooth)
 
 #### Screenshot
-![Preview](https://raw.githubusercontent.com/pedrotpo/darktooth_material_theme/blob/master/screenshot.png)
+![Preview](https://user-images.githubusercontent.com/24573924/87095384-0872d080-c217-11ea-972e-86f7a4e5e3ab.png)
 
 
 * [GitHub repository](https://github.com/pedrotpo/darktooth_material_theme)
