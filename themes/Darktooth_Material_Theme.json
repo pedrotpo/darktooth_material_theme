@@ -59,7 +59,7 @@
     "tab.inactiveForeground": "#8d6b6b",
     "textLink.foreground": "#ca9a9a",
     "titleBar.activeBackground": "#32302f",
-    "window.activeBorder": "#32302f"
+    "titleBar.activeForeground": "#8d6b6b"
   },
   "tokenColors": [
     {
