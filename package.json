@@ -2,6 +2,7 @@
   "name": "theme-darktooth-material",
   "displayName": "Darktooth Material Theme",
   "description": "Color Theme based from the Emacs theme ported by /Poorchop",
+  "icon": "icon.png",
   "version": "0.0.1",
   "publisher": "pedrotpo",
   "license": "SEE LICENSE IN LICENSE.md",
