@@ -1,5 +1,5 @@
-
-## Darktooth Material Theme for Visual Studio Code
+# Darktooth Material Theme for Visual Studio Code
+Dark theme for VSCode
 
 ### This is a material theme built on the Darktooth theme for Emacs, ported by [Poorchop](https://marketplace.visualstudio.com/publishers/Poorchop)
 
